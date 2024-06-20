@@ -3,3 +3,11 @@ p {
   display: block;
   text-decoration: dashed;
 }
+
+* {
+  // <uniquifier>: Use a unique and descriptive class name
+  // <weight>: Use a value from 100 to 900
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
